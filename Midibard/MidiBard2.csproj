@@ -32,31 +32,31 @@
 
 	<ItemGroup>
 		<Reference Include="Dalamud">
-			<HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\Dalamud.dll</HintPath>
+			<HintPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\Dalamud.dll</HintPath>
 			<Private>false</Private>
 		</Reference>
 		<Reference Include="FFXIVClientStructs">
-			<HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\FFXIVClientStructs.dll</HintPath>
+			<HintPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\FFXIVClientStructs.dll</HintPath>
 			<Private>false</Private>
 		</Reference>
 		<Reference Include="ImGui.NET">
-			<HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\ImGui.NET.dll</HintPath>
+			<HintPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\ImGui.NET.dll</HintPath>
 			<Private>false</Private>
 		</Reference>
 		<Reference Include="ImGuiScene">
-			<HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\ImGuiScene.dll</HintPath>
+			<HintPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\ImGuiScene.dll</HintPath>
 			<Private>false</Private>
 		</Reference>
 		<Reference Include="Lumina">
-			<HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\Lumina.dll</HintPath>
+			<HintPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\Lumina.dll</HintPath>
 			<Private>false</Private>
 		</Reference>
 		<Reference Include="Lumina.Excel">
-			<HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\Lumina.Excel.dll</HintPath>
+			<HintPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\Lumina.Excel.dll</HintPath>
 			<Private>false</Private>
 		</Reference>
 		<Reference Include="Newtonsoft.Json">
-			<HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\Newtonsoft.Json.dll</HintPath>
+			<HintPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\Newtonsoft.Json.dll</HintPath>
 			<Private>false</Private>
 		</Reference>
 	</ItemGroup>

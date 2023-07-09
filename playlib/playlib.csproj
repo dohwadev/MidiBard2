@@ -6,11 +6,11 @@
 	</PropertyGroup>
 	<ItemGroup>
 		<Reference Include="Dalamud">
-			<HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\Dalamud.dll</HintPath>
+			<HintPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\Dalamud.dll</HintPath>
 			<Private>false</Private>
 		</Reference>
 		<Reference Include="FFXIVClientStructs">
-			<HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\FFXIVClientStructs.dll</HintPath>
+			<HintPath>E:\GitHubDesktop\dohwacorp\Dalamud\bin\Release\FFXIVClientStructs.dll</HintPath>
 			<Private>false</Private>
 		</Reference>
 	</ItemGroup>
